@@ -1,5 +1,7 @@
 # Sonority - Investigating A Flexible Architecture For Game Audio Engines Utilising Ambisonics
 
+## [Sonority Report](SonorityReport.pdf)
+
 ![Audio Graph](resources/AudioGraph.png)
 ![Engine Architecture](resources/EngineArchitecture.png)
 
